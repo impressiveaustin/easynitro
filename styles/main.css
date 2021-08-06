@@ -4,10 +4,3 @@ p {
   font-family: verdana;
   color: rgb(74, 39, 37);
 }
-
-html {
-    zoom: 0.5;
-    -moz-transform: scale(0.5);
-    -webkit-transform: scale(0.5);
-    transform: scale(0.5);
-}
